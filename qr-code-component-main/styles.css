@@ -39,9 +39,9 @@ h2 {
 .frame{
     background-color: white;
     height: 500px;
-    width: 40%;
+    width: 330px;
     margin: 0 auto;
-    padding-top: 10px;
+    padding-top: 15px;
     border-radius: 10px;
     box-shadow: 0 5px 20px .5px lightslategray;
 }
